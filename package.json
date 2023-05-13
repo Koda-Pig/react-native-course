@@ -17,5 +17,9 @@
   "devDependencies": {
     "@babel/core": "^7.20.0"
   },
-  "private": true
+  "private": true,
+  "description": "Following this tutorial:\r https://youtu.be/VozPNrt-LfE?t=1753",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
